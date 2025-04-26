@@ -1,1 +1,2 @@
-print("Hello, neovim")
+require('config.options')
+require('config.keybinds')
